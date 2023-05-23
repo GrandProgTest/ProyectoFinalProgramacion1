@@ -1,0 +1,7 @@
+﻿  Prueba final.cpp
+C:\Users\guill\Desktop\Universidad 2\TF - Programacion 1\Prueba final\Prueba final.cpp(297,9): warning C4101: 'indice': variable local sin referencia
+C:\Users\guill\Desktop\Universidad 2\TF - Programacion 1\Prueba final\Prueba final.cpp(651,9): warning C4101: 'direccion': variable local sin referencia
+C:\Users\guill\Desktop\Universidad 2\TF - Programacion 1\Prueba final\Prueba final.cpp(801,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\guill\Desktop\Universidad 2\TF - Programacion 1\Prueba final\Prueba final.cpp(853,11): warning C4101: 'direccion': variable local sin referencia
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Prueba final.vcxproj -> C:\Users\guill\Desktop\Universidad 2\TF - Programacion 1\Prueba final\Debug\Prueba final.exe
